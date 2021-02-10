@@ -38,3 +38,7 @@ list_of_num = [34, 6, 8, 10]
 println(addall(list_of_num))
 
 # 3
+"""A function to reverse strings"""
+function reversestring()
+    
+end
