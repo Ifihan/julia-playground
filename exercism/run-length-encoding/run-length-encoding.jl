@@ -30,6 +30,6 @@ function encode(in_str :: AbstractString)
     return out_str
 end
 
-function decode()
+function decode(in_str :: AbstractString)
 # coming soon...
 end
