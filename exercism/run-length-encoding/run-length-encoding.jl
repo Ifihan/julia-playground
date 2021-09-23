@@ -31,5 +31,5 @@ function encode(in_str :: AbstractString)
 end
 
 function decode(in_str :: AbstractString)
-# coming soon...
+# coming soon..
 end
